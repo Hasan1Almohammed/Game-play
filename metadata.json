@@ -1,0 +1,5 @@
+{
+  "name": "App Store Clone",
+  "description": "A web application that simulates an app store platform, allowing users to browse and publish new applications. It features a modern, dark-themed UI for an immersive experience.",
+  "requestFramePermissions": []
+}
